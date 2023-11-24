@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="6dp">
+
+    <TextView
+            android:id="@+id/text_location_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:text="Cropper"/>
+
+    <TextView
+            android:id="@+id/text_location_lat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_below="@+id/text_location_name"
+            tools:text="Cropper"/>
+
+
+    <TextView
+            android:id="@+id/text_location_lng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_below="@+id/text_location_lat"
+            tools:text="Cropper"/>
+
+
+    <TextView
+            android:id="@+id/text_location_country"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="2"
+            android:ellipsize="end"
+            android:textSize="16sp"
+            android:layout_below="@+id/text_location_lng"
+            tools:text="Country: Russia"/>
+
+
+    <TextView
+            android:id="@+id/text_location_countrycode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="2"
+            android:ellipsize="end"
+            android:textSize="16sp"
+            android:layout_below="@+id/text_location_country"
+            tools:text="Postcode: Pirogova"/>
+
+    <TextView
+            android:id="@+id/text_location_state"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="2"
+            android:ellipsize="end"
+            android:textSize="16sp"
+            android:layout_below="@+id/text_location_countrycode"
+            tools:text="State: Pirogova"/>
+
+
+
+
+
+</RelativeLayout>

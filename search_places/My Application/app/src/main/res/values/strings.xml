@@ -1,0 +1,7 @@
+<resources>
+    <string name="username">Location</string>
+    <string name="search">Search</string>
+    <string name="app_name">Geo Application</string>
+    <string name="search_places">Search places</string>
+    <string name="back">Back to locations</string>
+</resources>

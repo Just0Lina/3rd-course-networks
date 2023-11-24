@@ -1,0 +1,14 @@
+
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(œˆóûÿÿÿÿ8‘Å¾Ï»1
+]	java:S125"<This block of commented-out lines of code should be removed.(€Ò–õüÿÿÿÿ8˜Å¾Ï»1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(Ëœáüúÿÿÿÿ8°Å¾Ï»1
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(§ü²¡øÿÿÿÿ8±Å¾Ï»1
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(£ãà§8²Å¾Ï»1
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(î™èûşÿÿÿÿ8³Å¾Ï»1
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(‰ó—ƒ8´Å¾Ï»1
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ï’é™ıÿÿÿÿ8¶Å¾Ï»1
+N
+java:S1602\",Remove useless curly braces around statement(ß­›ßûÿÿÿÿ8·Å¾Ï»1
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(ãìÃÍ8¹Å¾Ï»1
+]	java:S125d"<This block of commented-out lines of code should be removed.(Ì¼ŒÒøÿÿÿÿ8¼Å¾Ï»1

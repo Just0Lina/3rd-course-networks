@@ -1,0 +1,19 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(±ã¶—8¯Š®ì»1
+^
+java:S1854,"<Remove this useless assignment to local variable "inflater".(ŸÊŞŸÿÿÿÿÿ8»ôæë»1
+]
+java:S1854+"@Remove this useless assignment to local variable "linearLayout".(ûŠÀ8»ôæë»1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¨ÊÁúÿÿÿÿ8½ôæë»1
+N
+java:S1602%",Remove useless curly braces around statement(ÎıÙ–şÿÿÿÿ8Àôæë»1
+X	java:S125&"<This block of commented-out lines of code should be removed.(¹üÜ¡8Áôæë»1
+O
+java:S1135'"2Complete the task associated to this TODO comment.(å½–8Áôæë»1
+N
+java:S1481+"1Remove this unused "linearLayout" local variable.(ûŠÀ8Âôæë»1
+O
+java:S1481,"-Remove this unused "inflater" local variable.(ŸÊŞŸÿÿÿÿÿ8Âôæë»1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(«‹Îõ8Èôæë»1
+L
+java:S1172G"*Remove this unused method parameter "lon".(™¨­£ùÿÿÿÿ8Íôæë»1
